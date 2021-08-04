@@ -7,7 +7,7 @@ Software Engineer with high interest in Frontend framework Enthusiast 🐱‍�
 **About Me!** 
 
 - 🔭 I’m currently working on building my Portifolio with websites
-- 🌱 I’m currently learning VueJs AngularJs
+- 🌱 I’m currently building multiple components to train my skills
 - 📫 How to reach me: <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-jessica-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-teo-cha-woon/)](https://www.linkedin.com/in/jessica-teo-cha-woon/)
 [![Gmail Badge](https://img.shields.io/badge/-jtcw-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jtcw1997@gmail.com)](mailto:jtcw1997@gmail.com)
